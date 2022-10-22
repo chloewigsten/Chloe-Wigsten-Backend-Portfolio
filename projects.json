@@ -1,0 +1,30 @@
+[
+    {
+      "name": "Fanfare Python/Django Website",
+      "description": "This was my Capstone project for my General Assembly Full Stack Software Engineering program. I got the inspiration after talking to a friend of mine, who is a big fan of certain celebrities. Here you can browse photos, videos, blind items, articles, and a message board about the celebrity. You can also leave comments on each with your own thoughts.",
+      "technologies": "Python, Django, Postgresql, HTML, & CSS",
+      "live": "https://app.herokuapp.com/whatever",
+      "git": "http://www.github.com/username/reponame"
+    },
+    {
+        "name": "Bob's Burgers React Character Index",
+        "description": "While looking through potential API databases that I could use for my project, I stumbled upon one with a lot of information about 300+ characters featured on the animated show 'Bob's Burgers'. I thought this could be a fun choice, especially because the styling would allow for a lot of creative liberties.",
+        "technologies": "Javascript, Node, React, CSS, Dotenv, Mongoose",
+        "live": "https://app.herokuapp.com/whatever",
+        "git": "http://www.github.com/username/reponame"
+      },
+      {
+        "name": "Spiel Embedded Javascript Blog",
+        "description": "I created this blog in tandem with 2 other software engineers. We chose to work on a blog format, so that we could have several elements that we worked with, including creating multiple indexes and keywords by which users are able to find blogs.",
+        "technologies": "HTML, CSS, JavaScript",
+        "live": "https://app.herokuapp.com/whatever",
+        "git": "http://www.github.com/username/reponame"
+      },
+      {
+        "name": "Memory Matching Javascript Game",
+        "description": "My very first project that I created as part of my General Assembly course was a Memory Matching Game, using Javascript. This project took around a day to create the base for, and I spent additional time styling and making sure the game looked visual appealing for users.",
+        "technologies": "HTML, CSS, JavaScript",
+        "live": "https://app.herokuapp.com/whatever",
+        "git": "http://www.github.com/username/reponame"
+      }
+  ]
